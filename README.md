@@ -43,23 +43,21 @@ professionally in IT. And will be appreciate any opportunity to get working expe
 
 ## Experience
 
-Jun 2015 – Aug 2022 (7 yrs 3 mos) - Accountant - KTL Ltd 
+- Jun 2015 - Aug 2022 (7 yrs 3 mos) - Accountant - KTL Ltd 
 (Areas of activity: Transportation, logistics)
-
-Feb 2014 – May 2015 (1 yr 4 mos) - Accountant - Egida Trans
+- Feb 2014 - May 2015 (1 yr 4 mos) - Accountant - Egida Trans
 (Areas of activity: Transportation, logistics)
 
 ## Education
 
-2007 – 2012, Specialist, Finance and Financial Management Services, Belarusian State Economic University
-August 2022 - Nov 2022, EPAM Training Center (Basic knowledge in IT)
-Jan 2023 - May 2023, EPAM Training Center (Functional Testing)
+- 2007 - 2012, Specialist, Finance and Financial Management Services, Belarusian
+  State Economic University
+- August 2022 - Nov 2022, EPAM Training Center (Basic knowledge in IT)
+- Jan 2023 - May 2023, EPAM Training Center (Functional Testing)
 
-Additional courses in Linkedin
+### Additional courses on Linkedin
 
-Jan 2023, Learn API Documentation with JSON and XML
-Apr 2023, Learning REST APIs
-Jun 2023, Git Essential Training
-July 2023, SQL Essential Training
-
-
+- Jan 2023, Learn API Documentation with JSON and XML
+- Apr 2023, Learning REST APIs
+- Jun 2023, Git Essential Training
+- Jul 2023, SQL Essential Training
