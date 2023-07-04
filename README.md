@@ -8,29 +8,29 @@ Ruslana Kuzmina
 - Email: ruslana.i.kuzmina@gmail.com
 - Phone: +37069102964
 - Link:
-    - <https://linkedin.com/in/ruslana-maroz>,
+    - <https://www.linkedin.com/in/ruslana-kuzmina/>,
     - <https://ruslana-kuzmina.github.io/>
 
 ## Summary
 
-I happy to share that I've started my new career as a QA Engineer. I've successfully
+I’m happy to share that I've started my new career as a QA Engineer. I've successfully
 completed long-term courses "Basic knowledge in IT" and "Functional Testing" at EPAM
-Training Center for the last year, and other courses that improved my skills in iT.
+Training Center for the last year, and a bunch of tech courses on Linkedin that improved
+my hard skills. It was beneficial for me to get a lot of knowledge about my future
+specialty:
 
-Now I meet requirements for a Junior QA Engineer and I’m looking for an entry-level
-position or an internship on a real-world project.
-
-I'm quite fluent at the following topics:
 - Requirements analysis
-- Designing test documentation: Checklists, Test Cases, Bug Reports, Test Result
-  Reports, etc.
+- Designing test documentation - Checklists, Test Cases, Bug Reports, Test Result Reports
 - Software Development Life Cycle, Agile methodology (Scrum, Kanban)
-- Functional testing, GUI testing, Localization testing, Mobile testing, API testing
+- Functional testing, GUI testing, Localization testing, Mobile testing
 - Working with Version Control System (Git)
 
-My previous work experience during 8 years as accountant in a transport company has
-given me a set of useful skills that beneficial for the new role and make me a robust
-QA Engineer. I found the following the most valuable:
+Now I’ve met requirements for a Junior QA Engineer and I’m looking for an entry-level
+position or an internship on a real-world project.
+
+My previous work experience during 8 years as an accountant in a transport company
+has given me a set of useful skills that are beneficial for the new role and make
+me a robust QA Engineer. I find the following the most valuable:
 
 - Attentiveness to details
 - Excellent communication skills (listening, negotiating, summarizing)
@@ -38,8 +38,8 @@ QA Engineer. I found the following the most valuable:
 - Self-motivated, conflict-free and responsible team-player
 - English level: B1+
 
-I have a great desire for solving problems of business, hone my skills and develop
-professionally in IT. And will be appreciate any opportunity to get working experience.
+I have great desire for solving business problems, hone my skills and develop
+professionally in IT. I appreciate any opportunity to get working experience.
 
 ## Experience
 
@@ -50,7 +50,7 @@ professionally in IT. And will be appreciate any opportunity to get working expe
 
 ## Education
 
-- 2007 - 2012, Specialist, Finance and Financial Management Services, Belarusian
+- 2007 - 2012, Economist, Finance and Financial Management Services, Belarusian
   State Economic University
 - August 2022 - Nov 2022, EPAM Training Center (Basic knowledge in IT)
 - Jan 2023 - May 2023, EPAM Training Center (Functional Testing)
